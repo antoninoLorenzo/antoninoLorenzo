@@ -3,10 +3,10 @@
 **About**:
 
 - 🏫 I’m currently studying Computer Science. 
-
+<!--
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-
+-->
 <!-- 
 https://readme-typing-svg.demolab.com/demo/
 https://skillicons.dev/
