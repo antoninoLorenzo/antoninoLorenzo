@@ -2,7 +2,7 @@
 
 **About**:
 
-- 🏫 I’m currently studying Computer Science. 
+- 🏫 Computer Science Student
 <!--
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
