@@ -2,18 +2,33 @@ name: TryHackMe Update Badge
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' 
   workflow_dispatch:
   push:
 jobs:
   tryhackme-badge-update:
-    name: Update this repo's tryhackme badge with the latest tryhackme image badge
+    name: Update TryHackMe Badge
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: p4p1/tryhackme-badge-workflow@main
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run TryHackMe Badge Workflow
+        uses: p4p1/tryhackme-badge-workflow@main
         with:
-          
           username: "antoninoLorenzo"
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} 
-                                                
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+      - name: Commit and push badge
+        run: |
+          git add assets/thm_propic.png
+          git commit -m "Update TryHackMe badge"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
