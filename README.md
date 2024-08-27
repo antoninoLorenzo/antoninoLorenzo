@@ -3,7 +3,6 @@
 <!--
 ![tryhackme stats](./assets/thm_badge.jpg)
 
- 
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,docker)](https://skillicons.dev)
 
 
