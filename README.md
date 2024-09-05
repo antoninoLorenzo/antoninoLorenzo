@@ -1,21 +1,22 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=D20000&random=false&width=435&lines=Antonino+Lorenzo)](https://git.io/typing-svg)
 <!-- Resource: https://readme-typing-svg.demolab.com/demo/ -->
 
+
 <!--
-**TryHackMe**
+|                                               |                                                                                    |
+| --------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [TryHackMe](https://tryhackme.com/p/aLorenzo) | <img src="https://tryhackme-badges.s3.amazonaws.com/aLorenzo.png" alt="TryHackMe"> |
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/aLorenzo.png" alt="TryHackMe">
-
-- Is this the only way I can proof Penetration Testing skills?
+- Is this the only way I can proof Penetration Testing skills? yay
 
 -->
 <!--
 **Skills** 
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,bash,docker,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,docker,kali)](https://skillicons.dev)
 
-- Can I really add something else other than python? (eventually kali)
-- I am pretty used to FastAPI at this point, however I still have so much to do with it (for example never used https or proxies)
+- I only know python btw (looking to add go...)
+- I "know" FastAPI (never used https or proxies or set it on a production server)
 
 -->
 <!-- Resource: https://skillicons.dev/ -->
