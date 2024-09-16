@@ -13,10 +13,12 @@
 <!--
 ### Language and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,docker,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,fastapi,docker,kali)](https://skillicons.dev)
 
-- I only know python btw (looking to add go...)
-- I "know" FastAPI (never used https or proxies or set it on a production server)
+- Mid python knowledge
+- Basic go knowledge
+- Used fast api in local deployments 
+- What is docker?
 
 -->
 <!-- Resource: https://skillicons.dev/ -->
