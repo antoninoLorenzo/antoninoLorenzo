@@ -2,23 +2,37 @@
 <!-- Resource: https://readme-typing-svg.demolab.com/demo/ -->
 
 
-<!--
-|                                               |                                                                                    |
-| --------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [TryHackMe](https://tryhackme.com/p/aLorenzo) | <img src="https://tryhackme-badges.s3.amazonaws.com/aLorenzo.png" alt="TryHackMe"> |
 
-- Is this the only way I can proof Penetration Testing skills? yay
-
--->
 <!--
 ### Language and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,fastapi,docker,kali)](https://skillicons.dev)
+**Languages**: 
 
-- Mid python knowledge
-- Basic go knowledge
-- Used fast api in local deployments 
-- What is docker?
+<i class="devicon-cplusplus-plain colored"></i>
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
+
+> C++, seriously?
+
+**Technologies**:
+
+[![My Skills](https://skillicons.dev/icons?i=fastapi,docker)](https://skillicons.dev)
+
+> Does it even count adding FastAPI and Docker when I have never built something "production ready"?
+
+**Environment**: 
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,windows,kali)](https://skillicons.dev)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoninolorenzo&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0d1117&title_color=D20000&border_color=D20000&hide_progress=true" alt="antoninolorenzo" /></p>
 
 -->
-<!-- Resource: https://skillicons.dev/ -->
+
+<!-- 
+
+Resources: 
+- [Skill Icons](https://skillicons.dev/)
+- [Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [Typing Header](https://readme-typing-svg.demolab.com/demo/)
+
+-->
