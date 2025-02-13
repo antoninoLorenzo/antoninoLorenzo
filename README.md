@@ -1,7 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=D20000&random=false&width=435&lines=Antonino+Lorenzo)](https://git.io/typing-svg)
 
+<!--
 💬 Me: cybersecurity and ai enthusiast (terrible at both).
-
+-->
 ### Technologies
 
 ![Skills](https://skills-icons.vercel.app/api/icons?i=python,fastapi,docker,windows,kali,proxmox,vscode)
