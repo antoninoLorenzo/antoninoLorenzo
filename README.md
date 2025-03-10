@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=D20000&random=false&width=435&lines=Antonino+Lorenzo)](https://git.io/typing-svg)
 
 
-| I would tell you an UDP joke but I'm not sure you'd get it.
+> I would tell you an UDP joke but I'm not sure you'd get it.
 
 <!--
 💬 Me: cybersecurity and ai enthusiast (terrible at both).
