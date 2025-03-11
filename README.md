@@ -5,11 +5,11 @@
 
 <!--
 💬 Me: cybersecurity and ai enthusiast (terrible at both).
--->
+
 ### Technologies
 
 ![Skills](https://skills-icons.vercel.app/api/icons?i=python,fastapi,docker,windows,kali,proxmox,vscode)
-
+-->
 <!--
 <img src="https://programmerhumor.io/wp-content/uploads/2023/12/programmerhumor-io-python-memes-backend-memes-5716324a67c6083-758x548.jpg" style="width:500px">
 <p>From <a href="https://programmerhumor.io/python-memes/c-developer-vs-python-developer/">ProgrammerHumor.io</a><p>
